@@ -1,0 +1,20 @@
+.one {
+    height: 300px;
+    width: 500px;
+    background-color: #8f0303; /* Red */
+}
+.two {
+    height: 600px;
+    width: 500px;
+    background-color: #55545e; /* Green */
+    border-bottom-right-radius:20%;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 60%;
+    position : relative;
+    top: 100px;
+    center: 750px;
+    
+}
